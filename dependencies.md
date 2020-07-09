@@ -1,5 +1,5 @@
 # Google Apps Script Project: cDelegateMemory
-This repo (cDelegateMemory) was automatically updated on 26 January 2019 17:22:40 GMT by GasGit
+This repo (cDelegateMemory) was automatically updated on 09 July 2020 12:28:10 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cDelegateMemory
@@ -15,12 +15,12 @@ appsscript| json
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cDriverMemory| cDriverMemory|101pVFakzEfvHquUFOmZafAzfBAGSotgH56IqVcGmWNBu7J0sweklqyCB|13|no|[here](libraries/cDriverMemory "library source")
+cDriverMemory| cDriverMemory|101pVFakzEfvHquUFOmZafAzfBAGSotgH56IqVcGmWNBu7J0sweklqyCB|14|no|[here](libraries/cDriverMemory "library source")
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cDriverMemory| cDriverMemory|101pVFakzEfvHquUFOmZafAzfBAGSotgH56IqVcGmWNBu7J0sweklqyCB|13|no|[here](libraries/cDriverMemory "library source")
-cUseful| cUseful|1EbLSESpiGkI3PYmJqWh3-rmLkYKAtCNPi1L2YCtMgo2Ut8xMThfJ41Ex|111|no|[here](libraries/cUseful "library source")
+cDriverMemory| cDriverMemory|101pVFakzEfvHquUFOmZafAzfBAGSotgH56IqVcGmWNBu7J0sweklqyCB|14|no|[here](libraries/cDriverMemory "library source")
+cUseful| cUseful|1EbLSESpiGkI3PYmJqWh3-rmLkYKAtCNPi1L2YCtMgo2Ut8xMThfJ41Ex|118|no|[here](libraries/cUseful "library source")
 ### Enabled Google Services
 no libraries discovered
 ### Scopes required
